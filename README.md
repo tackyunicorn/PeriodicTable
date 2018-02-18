@@ -1,5 +1,8 @@
 # PeriodicTable
 An informative C++ program on the periodic table
+<p align="center">
+  <img src="sample.png"/>
+</p>  
 
 ## About the project
 The periodic table is a tabular arrangement of the chemical
