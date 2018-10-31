@@ -40,3 +40,4 @@ program also displays the modern periodic table as a visual aid.
   This project was developed for Windows systems using the Dev C++ IDE  
   Use a window size of **80x25** for the optimal viewing experience  
   Compiled using the **mingw32-gcc-g++** compiler- Version **6.3.0-1**
+  cray cray
